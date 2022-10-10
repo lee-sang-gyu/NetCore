@@ -11,3 +11,17 @@
 
 1. MVC 패턴
 2. 의존성 주입 패턴
+
+
+EntityFrameworkCore
+
+1. Code-First
+코드작성 우선주의
+Migrations
+미리 작성된 코드로 데이터베이스에 테이블과 컬럼 생성
+
+2. Database-First
+데이터베이스 작업 우선주의
+
+Entity Data Modelling
+코드를 손쉽게 작성할 수 있도록 도와줌.
